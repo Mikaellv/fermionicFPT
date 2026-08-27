@@ -1,0 +1,7 @@
+# Ignore everything by default; only fermionic_fpt.py and
+# verify_fermionic_fpt.py (plus this file) are tracked/pushed.
+*
+
+!.gitignore
+!fermionic_fpt.py
+!verify_fermionic_fpt.py
